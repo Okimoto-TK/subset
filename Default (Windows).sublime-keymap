@@ -1,0 +1,4 @@
+[
+	{ "keys":["f11"], "command":"build", "args": {"variant": "RunInCmd"} },
+	{ "keys":["f12"], "command":"build", "args": {"variant": "gprof"} }
+]
